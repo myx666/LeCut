@@ -1,0 +1,12 @@
+*.log
+*.zip
+# *.ipynb
+*.pkl
+*.bin
+
+*.json
+
+Ranked-List-Truncation/Tensorboard_summary
+
+.DS_Store
+
